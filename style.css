@@ -50,3 +50,20 @@ body {
     font-family: "Angkor";
     text-align: justify;
 }
+
+a {
+    color: yellow;
+    font-family: 'poppins';
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+    font-family: 'poppins';
+    text-decoration: underline;
+}
+
+.p6 {
+    color: yellow;
+    font-family: 'poppins';
+}
